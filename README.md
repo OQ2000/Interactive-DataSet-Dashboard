@@ -25,10 +25,10 @@ As outlined in the [Abstract](#Abstract) the purpose of this project was to lear
 
 Below is a screenshot of the final product, although the colours could do with being more complimentary in places and should have more contrast in others, this project outline was to learn the fundamentals of creating appealing excel dashboards and I feel like I know posses the knowledge to create a dashboard on other datasets.
 ##
-![Image from Gyazo](Images\DashboardUse.gif)
+![Image from Gyazo](https://github.com/OQ2000/Interactive-DataSet-Dashboard/tree/master/Images/DashboardUse.gif)
 ##
 <strong> The above dashboard was derived from a dataset as displayed below</strong>
-![Image from Gyazo](Images\DataSet.png)
+![Image from Gyazo](https://github.com/OQ2000/Interactive-DataSet-Dashboard/tree/master/Images/DataSet.png)
 
 # Credits<a name="Credits"></a>
 For the tutorial and sample dataset: [excelfind.com](https://excelfind.com/) 
