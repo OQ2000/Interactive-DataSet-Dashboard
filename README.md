@@ -1,4 +1,9 @@
 ﻿# Interactive Excel Dashboard
+
+<p align="center">
+  <img width="460" height="300" src=/Images/Dashboard.png>
+</p>
+
 * [Abstract](#Abstract )
 * [Context](#Context)
 * [Outcome](#Outcome) 
