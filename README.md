@@ -1,7 +1,7 @@
 ﻿# Interactive Excel Dashboard
 
 <p align="center">
-  <img width="460" height="300" src=/Images/Dashboard.png>
+  <img width="614" height="355" src=/Images/Dashboard.png>
 </p>
 
 * [Abstract](#Abstract )
